@@ -14,7 +14,7 @@
   <strong><a href="https://twitter.com/extrasabar">Twitter</a></strong>
 </p>
 
-<p align="center">❤ I'm currently working on Software, Anime / Manga, Game Dev, and Content Creation.</p>
+<p align="center">❤ I'm currently working on Software, Anime / Manga, and Content Creation.</p>
 
 <!--
 Here are some ideas to get you started:
