@@ -1,8 +1,22 @@
-### Hi there 👋
+<p align="center">
+  <a href="https://www.facebook.com/yukisubagja"><img src="https://i.pinimg.com/originals/62/7f/d8/627fd8ff2abaaed7746b1585dd13fbdf.gif" alt="Banner"></a>
+</p>
+
+<h1 align="center">Hi, I'm <a href="https://github.com/mrtakt">MrTakt Aka Yuki</a>!</h1>
+<h1 align="center">Welcome to my GitHub profile~ Bro</h1>
+
+<p align="center">
+  <a href="https://github.com/mrtakt"><img src="https://github-readme-stats.vercel.app/api?username=mrtakt&hide_border=true&show_icons=true" alt="mrtakt's github stats"></a>
+</p>
+
+<p align="center">
+  <strong><a href="https://facebook.com/yukisubagja">Facebook</a></strong> |
+  <strong><a href="https://twitter.com/extrasabar">Twitter</a></strong>
+</p>
+
+<p align="center">❤ I'm currently working on Software, Anime / Manga, Game Dev, and Content Creation.</p>
 
 <!--
-**mrtakt/mrtakt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
