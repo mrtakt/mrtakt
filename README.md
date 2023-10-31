@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.facebook.com/yukisubagja"><img src="https://i.pinimg.com/originals/62/7f/d8/627fd8ff2abaaed7746b1585dd13fbdf.gif" alt="Banner"></a>
+  <a href="https://www.facebook.com/yukisubagja"><img src="https://media.tenor.com/GMNAT6dcdZoAAAAC/takina-inoue-lycoris-recoil.gif" alt="Banner"></a>
 </p>
 
 <h1 align="center">Hi, I'm <a href="https://github.com/mrtakt">MrTakt Aka Yuki</a>!</h1>
