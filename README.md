@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm <a href="https://github.com/mrtakt">MrTakt Aka Yuki</a>!</h1>
 <p align="center">
-  <a href="https://www.facebook.com/yukisubagja"><img src="https://i.pinimg.com/originals/0b/86/20/0b86201f1bdb5893a5adb72ebacc4d16.gif" alt="Banner"></a>
+  <a href="https://www.facebook.com/yukisubagja"><img src="https://i.pinimg.com/originals/0b/86/20/0b86201f1bdb5893a5adb72ebacc4d16.gif" alt="Banner" width="250"></a>
 </p>
 
 <p align="center">
