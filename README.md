@@ -1,10 +1,11 @@
+<h1 align="center">Hi, I'm <a href="https://github.com/mrtakt">MrTakt Aka Yuki</a>!</h1>
 <p align="center">
   <a href="https://www.facebook.com/yukisubagja"><img src="https://media.tenor.com/GMNAT6dcdZoAAAAC/takina-inoue-lycoris-recoil.gif" alt="Banner"></a>
 </p>
 
-<h1 align="center">Hi, I'm <a href="https://github.com/mrtakt">MrTakt Aka Yuki</a>!</h1>
-<h1 align="center">Welcome to my GitHub profile~ Bro</h1>
-
+<p align="center">
+    <img src="https://lanyard.kyrie25.me/api/481499705885327360" />
+</p>
 <p align="center">
   <a href="https://github.com/mrtakt"><img src="https://github-readme-stats.vercel.app/api?username=mrtakt&hide_border=true&show_icons=true" alt="mrtakt's github stats"></a>
 </p>
