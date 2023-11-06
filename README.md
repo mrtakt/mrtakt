@@ -13,7 +13,7 @@ class Yuki ( ReadMe ) :
         self.location  = "Indonesia"
         self.instagram   = "@yuki21_"
         self.language = ["English", "Indonesia"]
-        code.languages = [ "PHP", "Javascript", "Pyton", "Java" ]
+        self.codes= [ "PHP", "Javascript", "Pyton", "Java" ]
     def about ( self ) :
         print( "Hallo, Saya {self.username}. Kontak Saya Di {self.instagram}" )
 me = Yuki()
