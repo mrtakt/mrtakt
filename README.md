@@ -1,8 +1,6 @@
+
 <p align="center">
-  <a href="https://github.com/mrtakt"><img width="500" src="http://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=40&pause=1000&color=F70000&vCenter=true&random=false&width=500&lines=Hi%2C+I'm+Mr+Takt+Aka+Yuki!;Keep+Learning;Javascript+%2C+Java+%2C+Python+%2C+PHP;Indonesian+People" alt="Typing SVG" /></a>
-</p>
-<p align="center">
-  <a href="https://www.facebook.com/yukisubagja"><img src="https://i.pinimg.com/originals/0b/86/20/0b86201f1bdb5893a5adb72ebacc4d16.gif" alt="Banner" width="500"></a>
+  <a href="https://www.facebook.com/yukisubagja"><img src="https://img.itch.zone/aW1nLzExMTg0MTE2LmdpZg==/original/wnAJ7R.gif" alt="Banner" width="500"></a>
 </p>
 
 ```python
